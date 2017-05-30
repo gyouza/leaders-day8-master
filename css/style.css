@@ -112,18 +112,21 @@ nav li a:hover {
 
 .col-4 {
     width: 590px;
+    height: 590px;
     margin: 5px;
     float: left;
 }
 
 .col-2 {
     width: 290px;
+    height: 290p;
     margin: 5px;
     float: left;
 }
 
 .col-1 {
     width: 140px;
+    height: 140px;
     margin-right: 5px;
     margin-left: 5px;
     float: left;
@@ -172,6 +175,7 @@ nav li a:hover {
 
 .sns .flexbox {
     display: flex;
+    flex-direction: row;
 }
 
 .sns .flexbox .icon {
