@@ -112,21 +112,22 @@ nav li a:hover {
 
 .col-4 {
     width: 590px;
-    height: 590px;
+/*    height: 590px;*/
     margin: 5px;
     float: left;
 }
 
 .col-2 {
     width: 290px;
-    height: 290p;
+/*    height: 290px;*/
     margin: 5px;
+/*    margin-top: 5px;*/
     float: left;
 }
 
 .col-1 {
     width: 140px;
-    height: 140px;
+/*    height: 140px;*/
     margin-right: 5px;
     margin-left: 5px;
     float: left;
@@ -166,7 +167,7 @@ nav li a:hover {
 .photo .col-1,
 .photo .col-2,
 .photo .col-4 {
-        margin-bottom: 5px;
+        margin-bottom: 4px;
 }
 
 .photo img {
